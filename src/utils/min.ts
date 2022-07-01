@@ -1,0 +1,1 @@
+export default (arr: number[]) => Math.min(...arr);
